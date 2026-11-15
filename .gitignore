@@ -7,7 +7,6 @@ media/gif/
 data/
 
 # Local config
-.env
 
 # Build output / deps
 frontend/dist/
@@ -56,3 +55,4 @@ frontend/ios/App/WatchCore/.build/
 /dist/
 .wrangler/
 .taste-skill/
+config.bat

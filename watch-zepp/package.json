@@ -6,7 +6,7 @@
   "license": "AGPL-3.0-or-later",
   "type": "module",
   "scripts": {
-    "build": "zeus build",
+    "build": "node init && zeus build",
     "test": "node --test test/*.test.js",
     "strings": "node zepp-strings.mjs"
   },
